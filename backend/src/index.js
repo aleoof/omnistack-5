@@ -27,5 +27,5 @@ app.use(express.json());
 app.use(route);
 
 server.listen(3333, () => {
-  console.log('server started on port 3000');
+  console.log('server started on port 3333');
 });
